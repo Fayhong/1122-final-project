@@ -6,7 +6,7 @@
 
 ### 重點 1 在supabase匯入countries data 產生countries table
 
-### 重點 2  在supabase匯入cities csv 並創foreign key 
+### 重點 2  在supabase匯入cities csv 並設定foreign key 
 
 ### 重點 3  取得國旗圖片的api網址
 
@@ -35,6 +35,8 @@
 #### => 功能 1 在html建立一個container 來放入圖片及國家基本資料
 
 #### => 功能 2 在css中設置文字置中、字體顏色、圓角等等
+
+#### => 功能 3 js部分採用之前上課內容的語法去更改，使得國旗圖片及基本資料顯現出在網頁上
 
 ---
 
