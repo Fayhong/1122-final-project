@@ -1,6 +1,6 @@
 [My Github URL](https://github.com/Fayhong/1122-final-project.git)
 
-[My Vercel Homepage](https://1122-js-demo-xx.vercel.app/)
+[My Vercel Homepage](https://1122-final-project-six.vercel.app/)
 
 ## API Project 簡要說明
 
@@ -40,5 +40,5 @@
 
 ### 學習甘苦談
 
-#### => 1. 這學期學習JavaScript讓我感到頗具挑戰性，對資料庫的使用方式也還不太熟悉。從最初匯入網上的資源，到將資料抓取並呈現在網頁上，每一步都不是那麼容易。我花了不少時間去摸索和理解，但這或許正是學習程式設計的樂趣所在，發現問題然後去解決，不斷提升自己解決問題的能力。
+#### => 1. 這學期學習JavaScript讓我感到頗具挑戰性，對資料庫的使用方式也還不太熟悉，從最初匯入網上的資源，到將資料抓取並呈現在網頁上，每一步都不是那麼容易，花了不少時間去摸索和理解，但這或許正是學習程式設計的樂趣所在，發現問題然後去解決，不斷提升自己解決問題的能力。
 
