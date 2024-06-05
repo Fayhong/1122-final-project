@@ -1,4 +1,4 @@
-[My Github URL](https://github.com/htchung/1122-js-demo-xx)
+[My Github URL](https://github.com/Fayhong/1122-final-project.git)
 
 [My Vercel Homepage](https://1122-js-demo-xx.vercel.app/)
 
